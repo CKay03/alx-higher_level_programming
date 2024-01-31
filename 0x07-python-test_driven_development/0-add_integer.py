@@ -1,4 +1,4 @@
-#!/usr/bin/bashpython3
+#!/usr/bin/python3
 """Defines an integer addition function."""
 
 
